@@ -1,6 +1,7 @@
 using HtmlAgilityPack;
 using KgReviewverse.Crawler.Models;
 using KgReviewverse.Crawler.Config;
+using Microsoft.Extensions.Logging;
 
 namespace KgReviewverse.Crawler.Services;
 
@@ -8,29 +9,30 @@ public class DramaScraper
 {
     private readonly HttpClient _httpClient;
     private readonly AppConfig _config;
+    private readonly ILogger<DramaScraper> _logger;
     private const string BaseUrl = "https://en.wikipedia.org";
 
-    public DramaScraper(HttpClient httpClient, AppConfig config)
+    public DramaScraper(HttpClient httpClient, AppConfig config, ILogger<DramaScraper> logger)
     {
         _httpClient = httpClient;
         _config = config;
+        _logger = logger;
     }
 
     public async Task<List<ScrapedDrama>> ScrapeAllDramasAsync()
     {
         var allDramas = new List<ScrapedDrama>();
         
-        Console.WriteLine("Starting Korean drama scraping...");
-        Console.WriteLine($"Years: {_config.StartYear}-{_config.EndYear}");
+        _logger.LogInformation("Starting Korean drama scraping...");
+        _logger.LogInformation("Years: {StartYear}-{EndYear}", _config.StartYear, _config.EndYear);
 
         var yearLinks = await GetYearLinksAsync();
         
         foreach (var (yearText, yearUrl) in yearLinks)
         {
-            Console.WriteLine($"\nProcessing year {yearText}...");
             var dramasForYear = await ScrapeYearAsync(yearText, yearUrl);
             allDramas.AddRange(dramasForYear);
-            Console.WriteLine($"Found {dramasForYear.Count} dramas for {yearText}");
+            _logger.LogInformation("Found {DramaCount} dramas for {Year}", dramasForYear.Count, yearText);
         }
 
         return allDramas;
@@ -75,21 +77,21 @@ public class DramaScraper
             var dramaHeader = yearDoc.DocumentNode.SelectSingleNode("//h3[@id='Drama']/parent::*");
             if (dramaHeader == null)
             {
-                Console.WriteLine($"Warning: Drama header not found for {yearText}");
+                _logger.LogWarning("Drama header not found for {Year}", yearText);
                 return dramas;
             }
 
             var dramaTableNode = dramaHeader.SelectSingleNode("following-sibling::table[contains(@class,'wikitable')]");
             if (dramaTableNode == null)
             {
-                Console.WriteLine($"Warning: Drama table not found for {yearText}");
+                _logger.LogWarning("Drama table not found for {Year}", yearText);
                 return dramas;
             }
 
             var dramaRows = dramaTableNode.SelectNodes(".//tr[position()>1]");
             if (dramaRows == null)
             {
-                Console.WriteLine($"Warning: No drama rows found for {yearText}");
+                _logger.LogWarning("No drama rows found for {Year}", yearText);
                 return dramas;
             }
 
@@ -104,7 +106,7 @@ public class DramaScraper
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Error processing year {yearText}: {ex.Message}");
+            _logger.LogError("Error processing year {Year}: {Error}", yearText, ex.Message);
         }
 
         return dramas;
@@ -144,7 +146,7 @@ public class DramaScraper
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"Error processing drama in row: {ex.Message}");
+            _logger.LogWarning("Error processing drama: {Error}", ex.Message);
             return null;
         }
     }

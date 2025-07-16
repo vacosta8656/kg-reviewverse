@@ -29,19 +29,6 @@ public class ContentRepository : IContentRepository
             .FirstOrDefaultAsync(c => c.Id == contentId);
     }
 
-    public async Task<Content?> GetContentByTitleAsync(string title)
-    {
-        return await _context.Contents
-            .FirstOrDefaultAsync(c => c.Title.ToLower() == title.ToLower());
-    }
-
-    public async Task<Content> AddContentAsync(Content content)
-    {
-        _context.Contents.Add(content);
-        await _context.SaveChangesAsync();
-        return content;
-    }
-
     public async Task<double> GetAverageRatingAsync(int contentId)
     {
         return await _context.Reviews

@@ -26,8 +26,6 @@ builder.Services.AddScoped<IContentRepository, ContentRepository>();
 builder.Services.AddScoped<IContentService, ContentService>();
 builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
 builder.Services.AddScoped<IReviewService, ReviewService>();
-builder.Services.AddScoped<IDataImportService, DataImportService>();
-builder.Services.AddHttpClient();
 
 var app = builder.Build();
 

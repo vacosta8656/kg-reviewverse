@@ -1,55 +1,81 @@
 ﻿using DotNetEnv;
 using KgReviewverse.Crawler.Config;
 using KgReviewverse.Crawler.Services;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
 
 Env.Load();
 
 var config = new AppConfig
 {
-    GithubToken = Environment.GetEnvironmentVariable("GITHUB_TOKEN") ?? "YOUR_GITHUB_TOKEN_HERE",
-    GithubOwner = Environment.GetEnvironmentVariable("GITHUB_OWNER") ?? "YOUR_USERNAME",
-    GithubRepo = Environment.GetEnvironmentVariable("GITHUB_REPO") ?? "korean-dramas-data",
-    GithubBranch = Environment.GetEnvironmentVariable("GITHUB_BRANCH") ?? "main",
+    GithubToken = Environment.GetEnvironmentVariable("GITHUB_TOKEN") ?? "",
+    GithubOwner = Environment.GetEnvironmentVariable("GITHUB_OWNER") ?? "",
+    GithubRepo = Environment.GetEnvironmentVariable("GITHUB_REPO") ?? "",
+    GithubBranch = Environment.GetEnvironmentVariable("GITHUB_BRANCH") ?? "",
     StartYear = int.TryParse(Environment.GetEnvironmentVariable("START_YEAR"), out var startYear) ? startYear : 2021,
     EndYear = int.TryParse(Environment.GetEnvironmentVariable("END_YEAR"), out var endYear) ? endYear : 2025
 };
 
-var httpClient = new HttpClient();
-var scraper = new DramaScraper(httpClient, config);
-var storage = new DataStorage();
-var uploader = new GitHubUploader(httpClient, config);
+var services = new ServiceCollection();
+
+services.AddLogging(builder =>
+{
+    builder.AddConsole(options =>
+    {
+        options.FormatterName = "simple";
+    });
+    builder.SetMinimumLevel(LogLevel.Information);
+    
+    builder.AddFilter("System.Net.Http.HttpClient", LogLevel.Warning);
+    builder.AddFilter("Microsoft", LogLevel.Warning);
+    builder.AddFilter("System", LogLevel.Warning);
+});
+
+services.AddSingleton(config);
+services.AddHttpClient();
+services.AddTransient<DramaScraper>();
+services.AddTransient<DataFormatter>();
+services.AddTransient<GitHubUploader>();
+
+var serviceProvider = services.BuildServiceProvider();
+var logger = serviceProvider.GetRequiredService<ILogger<Program>>();
 
 try
 {
+    logger.LogInformation("Starting KgReviewverse Crawler...");
+    
+    var scraper = serviceProvider.GetRequiredService<DramaScraper>();
+    var storage = serviceProvider.GetRequiredService<DataFormatter>();
+    var uploader = serviceProvider.GetRequiredService<GitHubUploader>();
+
     var dramas = await scraper.ScrapeAllDramasAsync();
 
     if (dramas.Count == 0)
     {
-        Console.WriteLine("No dramas found to process.");
+        logger.LogWarning("No dramas found to process.");
         return;
     }
 
-    var fileName = $"korean_dramas_{DateTime.Now:yyyyMMdd_HHmmss}.json";
-    var jsonContent = await storage.SaveToJsonAsync(dramas);
+    var fileName = $"korean_dramas.json";
+    var jsonContent = storage.SaveToJson(dramas);
 
     var githubUrl = await uploader.UploadJsonAsync(fileName, jsonContent);
 
     if (githubUrl != null)
     {
-        Console.WriteLine($"\nProcess completed successfully!");
-        Console.WriteLine($"{dramas.Count} dramas processed");
-        Console.WriteLine($"GitHub URL: {githubUrl}");
-        Console.WriteLine($"\nYou can now use this URL in your backend to import the data:");
-        Console.WriteLine($"POST http://localhost:5044/api/dataimport/import-from-url");
-        Console.WriteLine($"Body: {{ \"url\": \"{githubUrl}\" }}");
+        logger.LogInformation("Process completed successfully!");
+        logger.LogInformation("{DramaCount} dramas processed", dramas.Count);
+        logger.LogInformation("GitHub URL: {GitHubUrl}", githubUrl);
+        logger.LogInformation("You can now use this URL in your backend to import the data:");
+        logger.LogInformation("POST http://localhost:5044/api/dataimport/import-from-url");
+        logger.LogInformation("Body: {{ \"url\": \"{GitHubUrl}\" }}", githubUrl);
     }
 }
 catch (Exception ex)
 {
-    Console.WriteLine($"An error occurred: {ex.Message}");
-    Console.WriteLine($"Stack trace: {ex.StackTrace}");
+    logger.LogError(ex, "An error occurred during crawling");
 }
 finally
 {
-    httpClient.Dispose();
+    serviceProvider.Dispose();
 }

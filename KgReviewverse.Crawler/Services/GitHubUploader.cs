@@ -1,6 +1,7 @@
 using System.Text;
 using System.Text.Json;
 using KgReviewverse.Crawler.Config;
+using Microsoft.Extensions.Logging;
 
 namespace KgReviewverse.Crawler.Services;
 
@@ -8,28 +9,26 @@ public class GitHubUploader
 {
     private readonly HttpClient _httpClient;
     private readonly AppConfig _config;
+    private readonly ILogger<GitHubUploader> _logger;
 
-    public GitHubUploader(HttpClient httpClient, AppConfig config)
+    public GitHubUploader(HttpClient httpClient, AppConfig config, ILogger<GitHubUploader> logger)
     {
         _httpClient = httpClient;
         _config = config;
+        _logger = logger;
     }
 
     public async Task<string?> UploadJsonAsync(string fileName, string jsonContent)
     {
         if (!_config.IsGithubConfigured)
         {
-            Console.WriteLine("⚠️ GitHub token not configured. Skipping upload.");
-            Console.WriteLine("To enable GitHub upload:");
-            Console.WriteLine("1. Create a GitHub repository");
-            Console.WriteLine("2. Get a Personal Access Token");
-            Console.WriteLine("3. Update the .env file with your GitHub configuration");
+            _logger.LogWarning("GitHub token not configured. Skipping upload.");
             return null;
         }
 
         try
         {
-            Console.WriteLine("\n📤 Uploading to GitHub...");
+            _logger.LogInformation("Uploading to GitHub...");
             
             ConfigureHttpClient();
 
@@ -48,23 +47,23 @@ public class GitHubUploader
                 var responseJson = JsonSerializer.Deserialize<JsonElement>(responseContent);
                 var downloadUrl = responseJson.GetProperty("content").GetProperty("download_url").GetString();
                 
-                Console.WriteLine("✅ Successfully uploaded to GitHub!");
-                Console.WriteLine($"📍 File URL: {downloadUrl}");
-                Console.WriteLine($"🔗 Raw URL for import: {downloadUrl}");
+                _logger.LogInformation("Successfully uploaded to GitHub!");
+                _logger.LogInformation("File URL: {FileUrl}", downloadUrl);
+                _logger.LogInformation("Raw URL for import: {RawUrl}", downloadUrl);
                 
                 return downloadUrl;
             }
             else
             {
                 var error = await uploadResponse.Content.ReadAsStringAsync();
-                Console.WriteLine($"❌ GitHub upload failed: {uploadResponse.StatusCode}");
-                Console.WriteLine($"Error: {error}");
+                _logger.LogError("GitHub upload failed: {StatusCode}", uploadResponse.StatusCode);
+                _logger.LogError("Error: {Error}", error);
                 return null;
             }
         }
         catch (Exception ex)
         {
-            Console.WriteLine($"❌ Error uploading to GitHub: {ex.Message}");
+            _logger.LogError("Error uploading to GitHub: {Error}", ex.Message);
             return null;
         }
     }
