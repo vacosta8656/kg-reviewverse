@@ -97,8 +97,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/D.P._%28TV_series%29_2.png/250px-D.P._%28TV_series%29_2.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Military drama[1]",
-      "Action[2]"
+      "Military drama",
+      "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/D.P._(TV_series)"
   },
@@ -111,9 +111,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Dystopian",
-      "Survival[1]",
-      "Thriller[1]",
-      "Drama[2]"
+      "Survival",
+      "Thriller",
+      "Drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Squid_Game"
   },
@@ -179,8 +179,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Bulgasal_Immortal_Souls.jpg/250px-Bulgasal_Immortal_Souls.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[1]",
-      "Thriller[1]"
+      "Fantasy",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Bulgasal:_Immortal_Souls"
   },
@@ -205,8 +205,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Through_the_Darkness_TV_series.jpg/250px-Through_the_Darkness_TV_series.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Crime[1]",
-      "Thriller[1]"
+      "Crime",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Through_the_Darkness_(TV_series)"
   },
@@ -219,7 +219,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
-      "Medical drama[1]"
+      "Medical drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Ghost_Doctor"
   },
@@ -362,8 +362,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Military_Prosecutor_Doberman.jpg/250px-Military_Prosecutor_Doberman.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Military[1]",
-      "Legal[1]"
+      "Military",
+      "Legal"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Military_Prosecutor_Doberman"
   },
@@ -460,8 +460,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Again_My_Life.jpeg/250px-Again_My_Life.jpeg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[1]",
-      "Action[2]"
+      "Fantasy",
+      "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Again_My_Life"
   },
@@ -611,10 +611,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Alchemy_of_Souls.jpg/250px-Alchemy_of_Souls.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[3]",
-      "Romance[3]",
-      "Period drama[3]",
-      "Action[4]"
+      "Fantasy",
+      "Romance",
+      "Period drama",
+      "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Alchemy_of_Souls"
   },
@@ -626,8 +626,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Jinx%27s_Lover.jpg/250px-Jinx%27s_Lover.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[1]",
-      "Romance[1]"
+      "Fantasy",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Jinxed_at_First"
   },
@@ -702,8 +702,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Brain_Cooperation.jpeg/250px-Brain_Cooperation.jpeg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Comedy[2]",
-      "Mystery[2]"
+      "Comedy",
+      "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Brain_Works"
   },
@@ -715,11 +715,11 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Payback_TV_series.jpg/250px-Payback_TV_series.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Revenge[1]",
-      "Thriller[1]",
-      "Legal drama[2]",
-      "Action[3]",
-      "Crime[4]"
+      "Revenge",
+      "Thriller",
+      "Legal drama",
+      "Action",
+      "Crime"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Payback_(South_Korean_TV_series)"
   },
@@ -755,8 +755,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Strangers_Again_%28TV_series%29.jpg/250px-Strangers_Again_%28TV_series%29.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romance[2]",
-      "Legal drama[2]"
+      "Romance",
+      "Legal drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Strangers_Again_(TV_series)"
   },
@@ -768,8 +768,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Season_of_Kkokdu.jpg/250px-Season_of_Kkokdu.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[1]",
-      "Romance[1]"
+      "Fantasy",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Kokdu:_Season_of_Deity"
   },
@@ -781,9 +781,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Our_Blooming_Youth.jpg/250px-Our_Blooming_Youth.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Period drama[1]",
-      "Romance[1]",
-      "Mystery[2]"
+      "Period drama",
+      "Romance",
+      "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Our_Blooming_Youth"
   },
@@ -820,8 +820,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pandora_-_Beneath_the_Paradise.png/250px-Pandora_-_Beneath_the_Paradise.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Revenge[3]",
-      "Thriller[4]"
+      "Revenge",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Pandora:_Beneath_the_Paradise"
   },
@@ -830,12 +830,12 @@
     "description": "A drama about a woman who loses her sight due to her husband and his lover and falls into \u0027Locked-In Syndrome\u0027 (conscious general paralysis). She exchanges her soul, with an heiress who has it all and is out for truth and revenge.[1]",
     "releaseDate": "2023-03-14T00:00:00",
     "endDate": "2023-08-04T00:00:00",
-    "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b1/Poster-Woman_in_a_Veil.jpg",
+    "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Poster-Woman_in_a_Veil.jpg/250px-Poster-Woman_in_a_Veil.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Melodrama",
-      "Revenge[1]",
-      "Body swap[1]"
+      "Revenge",
+      "Body swap"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Woman_in_a_Veil"
   },
@@ -847,11 +847,11 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Joseon_Lawyer.jpeg/250px-Joseon_Lawyer.jpeg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Period drama[2]",
-      "Revenge[2]",
-      "Action[2]",
-      "Legal[1]",
-      "Romance[1]"
+      "Period drama",
+      "Revenge",
+      "Action",
+      "Legal",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Joseon_Attorney"
   },
@@ -863,9 +863,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/The_Secret_Romantic_Guesthouse_poster.jpg/250px-The_Secret_Romantic_Guesthouse_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Period drama[1]",
-      "Mystery[1]",
-      "Romantic comedy[2]"
+      "Period drama",
+      "Mystery",
+      "Romantic comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Secret_Romantic_Guesthouse"
   },
@@ -877,10 +877,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Duty_After_School_poster.jpg/250px-Duty_After_School_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Military sci-fi[1]",
-      "Thriller[2]",
-      "Dystopian[3]",
-      "Teen drama[3]"
+      "Military sci-fi",
+      "Thriller",
+      "Dystopian",
+      "Teen drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Duty_After_School"
   },
@@ -904,9 +904,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Stealer_-_The_Treasure_Keeper.jpg/250px-Stealer_-_The_Treasure_Keeper.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Action[1]",
-      "Comedy[1]",
-      "Crime[2]"
+      "Action",
+      "Comedy",
+      "Crime"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Stealer:_The_Treasure_Keeper"
   },
@@ -930,9 +930,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Doctor_Cha.jpg/250px-Doctor_Cha.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Medical[1]",
-      "Comedy[1]",
-      "Family drama[1]"
+      "Medical",
+      "Comedy",
+      "Family drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Doctor_Cha"
   },
@@ -944,8 +944,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Family_%282023_TV_series%29.png/250px-Family_%282023_TV_series%29.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Comedy drama[1]",
-      "Spy[1]"
+      "Comedy drama",
+      "Spy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Family:_The_Unbreakable_Bond"
   },
@@ -957,10 +957,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Queen_of_the_Mask_tv_series.jpeg/250px-Queen_of_the_Mask_tv_series.jpeg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Melodrama[2]",
-      "Mystery[3]",
-      "Revenge[3]",
-      "Thriller[4]"
+      "Melodrama",
+      "Mystery",
+      "Revenge",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Queen_of_Masks"
   },
@@ -972,9 +972,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/The_Good_Bad_Mother.jpg/250px-The_Good_Bad_Mother.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Family[1]",
-      "Comedy drama[2]",
-      "Slice-of-life[3]"
+      "Family",
+      "Comedy drama",
+      "Slice-of-life"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Good_Bad_Mother"
   },
@@ -1000,9 +1000,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/My_Perfect_Stranger.jpg/250px-My_Perfect_Stranger.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[3]",
-      "Mystery[4]",
-      "Romance[5]"
+      "Fantasy",
+      "Mystery",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/My_Perfect_Stranger"
   },
@@ -1014,9 +1014,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/All_That_We_Loved_poster.png/250px-All_That_We_Loved_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Teen drama[1]",
-      "Comedy[2]",
-      "Romance[2]"
+      "Teen drama",
+      "Comedy",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/All_That_We_Loved"
   },
@@ -1028,8 +1028,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Tale_of_the_Nine_Tailed_1938.png/250px-Tale_of_the_Nine_Tailed_1938.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Action[1]",
-      "Fantasy[1]"
+      "Action",
+      "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Tale_of_the_Nine_Tailed_1938"
   },
@@ -1041,9 +1041,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Black_Knight_%28TV_Series%29.jpg/250px-Black_Knight_%28TV_Series%29.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Science fiction[1]",
-      "Dystopian[1]",
-      "Action[1]"
+      "Science fiction",
+      "Dystopian",
+      "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Black_Knight_(South_Korean_TV_series)"
   },
@@ -1055,9 +1055,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Delightfully_Deceitful.jpg/250px-Delightfully_Deceitful.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Revenge[1]",
-      "Crime[1]",
-      "Comedy[2]"
+      "Revenge",
+      "Crime",
+      "Comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Delightfully_Deceitful"
   },
@@ -1069,8 +1069,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Happiness_Battle.jpeg/250px-Happiness_Battle.jpeg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Suspense thriller[1]",
-      "Mystery[2]"
+      "Suspense thriller",
+      "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Battle_for_Happiness"
   },
@@ -1082,8 +1082,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/See_You_in_My_19th_Life.png/250px-See_You_in_My_19th_Life.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[1]",
-      "Romance[1]"
+      "Fantasy",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/See_You_in_My_19th_Life"
   },
@@ -1107,8 +1107,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Lies_Hidden_in_My_Garden.png/250px-Lies_Hidden_in_My_Garden.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Suspense thriller[1]",
-      "Mystery[2]"
+      "Suspense thriller",
+      "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Lies_Hidden_in_My_Garden"
   },
@@ -1120,9 +1120,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Revenant_%28South_Korean_TV_series%29.png/250px-Revenant_%28South_Korean_TV_series%29.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Mystery[1]",
-      "Thriller[1]",
-      "Horror[2]"
+      "Mystery",
+      "Thriller",
+      "Horror"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Revenant_(TV_series)"
   },
@@ -1134,9 +1134,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Mrs._Durian.jpg/250px-Mrs._Durian.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[2]",
-      "Melodrama[2]",
-      "Romance[3]"
+      "Fantasy",
+      "Melodrama",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Durian%27s_Affair"
   },
@@ -1160,8 +1160,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Not_Others.jpeg/250px-Not_Others.jpeg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Comedy drama[1]",
-      "Family[1]"
+      "Comedy drama",
+      "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Not_Others"
   },
@@ -1173,8 +1173,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Longing_for_You_%28TV_series%29.jpeg/250px-Longing_for_You_%28TV_series%29.jpeg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Mystery[1]",
-      "Thriller[1]"
+      "Mystery",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Longing_for_You_(TV_series)"
   },
@@ -1186,8 +1186,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/My_Lovely_Liar.png/250px-My_Lovely_Liar.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Mystery[1]",
-      "Romantic comedy[2]"
+      "Mystery",
+      "Romantic comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/My_Lovely_Liar"
   },
@@ -1213,12 +1213,12 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Moving_%28South_Korean_TV_series%29.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Action[1]",
-      "Fantasy[1]",
-      "Thriller[2]",
-      "Sci-fi[3]",
-      "Romance[4]",
-      "Family drama[4]"
+      "Action",
+      "Fantasy",
+      "Thriller",
+      "Sci-fi",
+      "Romance",
+      "Family drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Moving_(South_Korean_TV_series)"
   },
@@ -1230,9 +1230,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d1/The_Killing_Vote.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Hardboiled[1]",
-      "Thriller[1]",
-      "Crime[2]"
+      "Hardboiled",
+      "Thriller",
+      "Crime"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Killing_Vote"
   },
@@ -1244,9 +1244,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Mask_Girl.jpg/250px-Mask_Girl.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Black comedy[1]",
-      "Crime[2]",
-      "Thriller[2]"
+      "Black comedy",
+      "Crime",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Mask_Girl"
   },
@@ -1258,9 +1258,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/A_Time_Called_You.jpg/250px-A_Time_Called_You.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Time travel[1]",
-      "Mystery[2]",
-      "Romance[2]"
+      "Time travel",
+      "Mystery",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/A_Time_Called_You"
   },
@@ -1284,10 +1284,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/The_Escape_of_the_Seven_Resurrection_poster.png/250px-The_Escape_of_the_Seven_Resurrection_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Revenge drama[4]",
-      "Picaresque[4]",
-      "Crime[5]",
-      "Thriller[5]"
+      "Revenge drama",
+      "Picaresque",
+      "Crime",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Escape_of_the_Seven"
   },
@@ -1299,8 +1299,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Live_Your_Own_Life_poster.jpg/250px-Live_Your_Own_Life_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Family drama[1]",
-      "Romance[2]"
+      "Family drama",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Live_Your_Own_Life"
   },
@@ -1312,10 +1312,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Twinkling_Watermelon.jpg/250px-Twinkling_Watermelon.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[1]",
-      "Romance[1]",
-      "Coming-of-age[2]",
-      "Time travel[2]"
+      "Fantasy",
+      "Romance",
+      "Coming-of-age",
+      "Time travel"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Twinkling_Watermelon"
   },
@@ -1327,9 +1327,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/The_Worst_of_Evil.jpg/250px-The_Worst_of_Evil.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Crime action[1]",
-      "Thriller[2]",
-      "Noir[3]"
+      "Crime action",
+      "Thriller",
+      "Noir"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Worst_of_Evil"
   },
@@ -1341,10 +1341,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Strong_Woman_Gang_Nam-soon.jpg/250px-Strong_Woman_Gang_Nam-soon.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Action[1]",
-      "Comedy[2]",
-      "Crime[2]",
-      "Family drama[3]"
+      "Action",
+      "Comedy",
+      "Crime",
+      "Family drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Strong_Girl_Nam-soon"
   },
@@ -1368,8 +1368,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Third_Marriage.png/250px-Third_Marriage.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romance[1]",
-      "Revenge[1]"
+      "Romance",
+      "Revenge"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Third_Marriage"
   },
@@ -1381,8 +1381,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Perfect_Marriage_Revenge-Poster.jpg/330px-Perfect_Marriage_Revenge-Poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romance[1]",
-      "Revenge drama[1]"
+      "Romance",
+      "Revenge drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Perfect_Marriage_Revenge"
   },
@@ -1394,9 +1394,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Moon_in_the_Day.jpg/250px-Moon_in_the_Day.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[2]",
-      "Reincarnation[3]",
-      "Romance[2]"
+      "Fantasy",
+      "Reincarnation",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Moon_in_the_Day"
   },
@@ -1408,8 +1408,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Daily_Dose_of_Sunshine.jpg/250px-Daily_Dose_of_Sunshine.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Medical drama[1]",
-      "Comedy[2]"
+      "Medical drama",
+      "Comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Daily_Dose_of_Sunshine"
   },
@@ -1433,9 +1433,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Goryeo-Khitan_War.png/250px-Goryeo-Khitan_War.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Sageuk[1]",
-      "War drama[1]",
-      "Action[1]"
+      "Sageuk",
+      "War drama",
+      "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Korea%E2%80%93Khitan_War"
   },
@@ -1447,8 +1447,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/A_Bloody_Lucky_Day-jpg.jpeg/250px-A_Bloody_Lucky_Day-jpg.jpeg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Psychological drama[1]",
-      "Thriller[1]"
+      "Psychological drama",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/A_Bloody_Lucky_Day"
   },
@@ -1460,9 +1460,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/The_Story_of_Park%27s_Marriage_Contract.png/250px-The_Story_of_Park%27s_Marriage_Contract.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romantic comedy[1]",
-      "Period drama[2]",
-      "Fantasy[2]"
+      "Romantic comedy",
+      "Period drama",
+      "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Story_of_Park%27s_Marriage_Contract"
   },
@@ -1474,8 +1474,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/My_Demon.jpg/250px-My_Demon.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[1]",
-      "Romantic comedy[1]"
+      "Fantasy",
+      "Romantic comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/My_Demon"
   },
@@ -1487,9 +1487,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/My_Happy_Ending_%28TV_series%29_poster.jpg/250px-My_Happy_Ending_%28TV_series%29_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Psychological drama[1]",
-      "Thriller[1]",
-      "Mystery[2]"
+      "Psychological drama",
+      "Thriller",
+      "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/My_Happy_Ending_(TV_series)"
   },
@@ -1501,12 +1501,12 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Gyeongseong_Creature_%28title_card%29.png/250px-Gyeongseong_Creature_%28title_card%29.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Historical drama[2]",
-      "Suspense[2]",
-      "Mystery[3]",
-      "Horror[4]",
-      "Thriller[4]",
-      "Action[5]"
+      "Historical drama",
+      "Suspense",
+      "Mystery",
+      "Horror",
+      "Thriller",
+      "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Gyeongseong_Creature"
   },
@@ -1519,7 +1519,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Comedy drama",
-      "Romantic comedy[1]"
+      "Romantic comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Welcome_to_Samdal-ri"
   },
@@ -1531,11 +1531,11 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Marry_My_Husband_poster.jpg/250px-Marry_My_Husband_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romantic comedy[1]",
-      "Fantasy[2]",
-      "Revenge[3]",
-      "Workplace[1]",
-      "Time travel[1]"
+      "Romantic comedy",
+      "Fantasy",
+      "Revenge",
+      "Workplace",
+      "Time travel"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Marry_My_Husband"
   },
@@ -1547,9 +1547,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Love_Song_for_Illusion_poster.jpg/250px-Love_Song_for_Illusion_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[1]",
-      "Period[1]",
-      "Romance[2]"
+      "Fantasy",
+      "Period",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Love_Song_for_Illusion"
   },
@@ -1561,10 +1561,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Knight_Flower_poster.jpg/250px-Knight_Flower_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Period drama[1]",
-      "Comedy[2]",
-      "Action[3]",
-      "Romance[4]"
+      "Period drama",
+      "Comedy",
+      "Action",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Knight_Flower"
   },
@@ -1588,10 +1588,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/The_Bequeathed_poster.jpg/250px-The_Bequeathed_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Occult[1]",
-      "Thriller[1]",
-      "Suspense[2]",
-      "Horror[3]"
+      "Occult",
+      "Thriller",
+      "Suspense",
+      "Horror"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Bequeathed"
   },
@@ -1603,8 +1603,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/LTNS_%28TV_series%29_poster.jpg/250px-LTNS_%28TV_series%29_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Black comedy[2]",
-      "Satire[2]"
+      "Black comedy",
+      "Satire"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/LTNS_(TV_series)"
   },
@@ -1616,9 +1616,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Captivating_the_King_poster.png/250px-Captivating_the_King_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Period drama[2]",
-      "Romance[2]",
-      "Melodrama[3]"
+      "Period drama",
+      "Romance",
+      "Melodrama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Captivating_the_King"
   },
@@ -1630,10 +1630,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/The_Two_Sisters_TV_series_poster.png/250px-The_Two_Sisters_TV_series_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Family[1]",
-      "Revenge[2]",
-      "Suspense[2]",
-      "Romance[2]"
+      "Family",
+      "Revenge",
+      "Suspense",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Two_Sisters_(TV_series)"
   },
@@ -1645,10 +1645,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Flex_X_Cop_%28poster%29.jpeg/250px-Flex_X_Cop_%28poster%29.jpeg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Action[1]",
-      "Comedy[1]",
-      "Crime[1]",
-      "Romance[1]"
+      "Action",
+      "Comedy",
+      "Crime",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Flex_X_Cop"
   },
@@ -1660,8 +1660,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Doctor_Slump_%28TV_series%29_poster.jpg/250px-Doctor_Slump_%28TV_series%29_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Medical drama[1]",
-      "Romantic comedy[2]"
+      "Medical drama",
+      "Romantic comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Doctor_Slump_(TV_series)"
   },
@@ -1697,8 +1697,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/A_Killer_Paradox_poster.jpg/250px-A_Killer_Paradox_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Crime thriller[2]",
-      "Dark comedy[2]"
+      "Crime thriller",
+      "Dark comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/A_Killer_Paradox"
   },
@@ -1723,8 +1723,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Revenge drama",
-      "Workplace[1]",
-      "Thriller[2]"
+      "Workplace",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Impossible_Heir"
   },
@@ -1736,9 +1736,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Pyramid_Game_%28TV_series%29_poster.jpg/250px-Pyramid_Game_%28TV_series%29_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Psychological thriller[1]",
-      "Survival[1]",
-      "Mystery[2]"
+      "Psychological thriller",
+      "Survival",
+      "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Pyramid_Game_(TV_series)"
   },
@@ -1750,9 +1750,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/2/25/Wonderful_World_%28South_Korean_TV_series%29_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Revenge drama[1]",
-      "Thriller[2]",
-      "Mystery[3]"
+      "Revenge drama",
+      "Thriller",
+      "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Wonderful_World_(South_Korean_TV_series)"
   },
@@ -1776,8 +1776,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/The_Midnight_Studio_%282024_television_series%29_poster.jpg/250px-The_Midnight_Studio_%282024_television_series%29_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Fantasy[1]",
-      "Romance[2]"
+      "Fantasy",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Midnight_Studio"
   },
@@ -1802,9 +1802,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Nothing_Uncovered_poster.png/250px-Nothing_Uncovered_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Melodrama[2]",
-      "Thriller[2]",
-      "Romance[3]"
+      "Melodrama",
+      "Thriller",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Nothing_Uncovered"
   },
@@ -1816,8 +1816,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Beauty_and_the_Devoted.png/250px-Beauty_and_the_Devoted.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romance[1]",
-      "Coming-of-age[1]"
+      "Romance",
+      "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Beauty_and_Mr._Romantic"
   },
@@ -1829,8 +1829,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Hide_-_TV_series_%28title_card%29.jpg/250px-Hide_-_TV_series_%28title_card%29.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Mystery[1]",
-      "Suspense[1]"
+      "Mystery",
+      "Suspense"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Hide_(TV_series)"
   },
@@ -1842,8 +1842,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Suji_%26_Uri_%282024_television_series%29_poster.png/250px-Suji_%26_Uri_%282024_television_series%29_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romance[1]",
-      "Family[1]"
+      "Romance",
+      "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Suji_%26_Uri"
   },
@@ -1870,10 +1870,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/The_Escape_of_the_Seven_Resurrection_poster.png/250px-The_Escape_of_the_Seven_Resurrection_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Revenge drama[4]",
-      "Picaresque[4]",
-      "Crime[5]",
-      "Thriller[5]"
+      "Revenge drama",
+      "Picaresque",
+      "Crime",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Escape_of_the_Seven:_Resurrection"
   },
@@ -1885,9 +1885,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Parasyte_The_Grey_poster.png/250px-Parasyte_The_Grey_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Science fiction[1]",
-      "Horror[1]",
-      "Body snatcher[1]"
+      "Science fiction",
+      "Horror",
+      "Body snatcher"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Parasyte:_The_Grey"
   },
@@ -1899,9 +1899,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Lovely_Runner.png/250px-Lovely_Runner.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Time slip[1]",
-      "Romantic comedy[1]",
-      "Fantasy[2]"
+      "Time slip",
+      "Romantic comedy",
+      "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Lovely_Runner"
   },
@@ -1923,9 +1923,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Blood_Free_%28TV_series%29.png/250px-Blood_Free_%28TV_series%29.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Sci-fi[1]",
-      "Thriller[2]",
-      "Drama[2]"
+      "Sci-fi",
+      "Thriller",
+      "Drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Blood_Free"
   },
@@ -1949,8 +1949,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Missing_Crown_Prince_poster.png/250px-Missing_Crown_Prince_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Period drama[1]",
-      "Romantic comedy[1]"
+      "Period drama",
+      "Romantic comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Missing_Crown_Prince"
   },
@@ -1965,7 +1965,7 @@
       "Period drama",
       "Crime",
       "Comedy",
-      "Action[1]"
+      "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Chief_Detective_1958"
   },
@@ -2002,8 +2002,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Frankly_Speaking_%28TV_series%29_poster.png/250px-Frankly_Speaking_%28TV_series%29_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Comedy[1]",
-      "Melodrama[1]"
+      "Comedy",
+      "Melodrama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Frankly_Speaking_(TV_series)"
   },
@@ -2027,8 +2027,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/The_Brave_Yong_Soo-jung.png/250px-The_Brave_Yong_Soo-jung.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romance[1]",
-      "Revenge[1]"
+      "Romance",
+      "Revenge"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Brave_Yong_Su-jeong"
   },
@@ -2079,8 +2079,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Uncle_Samsik_poster.png/250px-Uncle_Samsik_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Period drama[1]",
-      "Political[2]"
+      "Period drama",
+      "Political"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Uncle_Samsik"
   },
@@ -2092,9 +2092,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/The_8_Show_poster.png/250px-The_8_Show_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Black comedy[1]",
-      "Thriller[2]",
-      "Satirical drama[3]"
+      "Black comedy",
+      "Thriller",
+      "Satirical drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_8_Show"
   },
@@ -2106,8 +2106,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Bitter_Sweet_Hell_poster.png/250px-Bitter_Sweet_Hell_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Black comedy[1]",
-      "Thriller[2]"
+      "Black comedy",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Bitter_Sweet_Hell"
   },
@@ -2119,10 +2119,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Connection_%28TV_series%29.png/250px-Connection_%28TV_series%29.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Psychological[1]",
-      "Crime[1]",
-      "Police procedural[1]",
-      "Thriller[1]"
+      "Psychological",
+      "Crime",
+      "Police procedural",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Connection_(TV_series)"
   },
@@ -2137,7 +2137,7 @@
       "Fantasy",
       "Teen drama",
       "Action",
-      "Revenge[1]"
+      "Revenge"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/High_School_Return_of_a_Gangster"
   },
@@ -2212,7 +2212,7 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Miss_Night_and_Day_%28poster%29.png/250px-Miss_Night_and_Day_%28poster%29.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romantic comedy[1]",
+      "Romantic comedy",
       "Fantasy",
       "Mystery"
     ],
@@ -2226,10 +2226,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Snow_White%27s_Revenge_poster.png/250px-Snow_White%27s_Revenge_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Melodrama[1]",
-      "Romance[2]",
-      "Revenge[2]",
-      "Mystery[3]"
+      "Melodrama",
+      "Romance",
+      "Revenge",
+      "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Snow_White%27s_Revenge"
   },
@@ -2253,8 +2253,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Red_Swan_%28TV_series%29_poster.png/250px-Red_Swan_%28TV_series%29_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romance[1]",
-      "Revenge drama[1]"
+      "Romance",
+      "Revenge drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Red_Swan_(TV_series)"
   },
@@ -2267,7 +2267,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Workplace",
-      "Action drama[1]"
+      "Action drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Auditors"
   },
@@ -2279,8 +2279,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Good_Partner_poster.png/250px-Good_Partner_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Legal drama[1]",
-      "Workplace[1]"
+      "Legal drama",
+      "Workplace"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Good_Partner"
   },
@@ -2318,10 +2318,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Sweet_Home_-_TV_series_%28title_card%29.png/250px-Sweet_Home_-_TV_series_%28title_card%29.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Apocalyptic[1]",
-      "Horror[2]",
-      "Action[2]",
-      "Fantasy[3]"
+      "Apocalyptic",
+      "Horror",
+      "Action",
+      "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Sweet_Home_3"
   },
@@ -2382,9 +2382,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Romance_in_the_House.png/250px-Romance_in_the_House.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Melodrama[1]",
-      "Romance[1]",
-      "Family[1]"
+      "Melodrama",
+      "Romance",
+      "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Romance_in_the_House"
   },
@@ -2409,8 +2409,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/The_Tyrant_%28TV_series%29_poster.png/250px-The_Tyrant_%28TV_series%29_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Action thriller[1]",
-      "Spy[2]"
+      "Action thriller",
+      "Spy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Tyrant_(TV_series)"
   },
@@ -2422,8 +2422,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Perfect_Family_poster.png/250px-Perfect_Family_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Family[1]",
-      "Mystery[2]"
+      "Family",
+      "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Perfect_Family"
   },
@@ -2523,8 +2523,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Queen_Woo_poster.jpg/250px-Queen_Woo_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Sageuk[1]",
-      "Action[1]"
+      "Sageuk",
+      "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Queen_Woo"
   },
@@ -2601,12 +2601,12 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Gyeongseong_Creature_%28title_card%29.png/250px-Gyeongseong_Creature_%28title_card%29.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Historical drama[2]",
-      "Suspense[2]",
-      "Mystery[3]",
-      "Horror[4]",
-      "Thriller[4]",
-      "Action[5]"
+      "Historical drama",
+      "Suspense",
+      "Mystery",
+      "Horror",
+      "Thriller",
+      "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Gyeongseong_Creature_2"
   },
@@ -2671,8 +2671,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Family_by_Choice_poster.png/250px-Family_by_Choice_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romantic comedy[1]",
-      "Coming-of-age[1]",
+      "Romantic comedy",
+      "Coming-of-age",
       "Family drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Family_by_Choice"
@@ -2789,10 +2789,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Face_Me_poster.png/250px-Face_Me_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Medical drama[1]",
-      "Melodrama[2]",
-      "Mystery[2]",
-      "Thriller[2]"
+      "Medical drama",
+      "Melodrama",
+      "Mystery",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Face_Me"
   },
@@ -2867,9 +2867,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Desperate_Mrs._Seon-joo_poster.png/250px-Desperate_Mrs._Seon-joo_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Melodrama[1]",
-      "Romance[1]",
-      "Revenge[2]"
+      "Melodrama",
+      "Romance",
+      "Revenge"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Desperate_Mrs._Seonju"
   },
@@ -2894,10 +2894,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/When_the_Phone_Rings_poster.png/250px-When_the_Phone_Rings_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Melodrama[1]",
-      "Romance[2]",
-      "Mystery[2]",
-      "Thriller[3]"
+      "Melodrama",
+      "Romance",
+      "Mystery",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/When_the_Phone_Rings"
   },
@@ -2959,10 +2959,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Cinderella_Game_poster.png/250px-Cinderella_Game_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Melodrama[1]",
-      "Revenge[1]",
-      "Family[1]",
-      "Thriller[1]"
+      "Melodrama",
+      "Revenge",
+      "Family",
+      "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Cinderella_Game"
   },
@@ -2999,9 +2999,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Who_Is_She_poster.png/250px-Who_Is_She_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romantic fantasy[1]",
-      "Musical[1]",
-      "Coming-of-age[1]"
+      "Romantic fantasy",
+      "Musical",
+      "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Who_Is_She"
   },
@@ -3063,8 +3063,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/When_the_Stars_Gossip_poster.png/250px-When_the_Stars_Gossip_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Science fiction[1]",
-      "Romantic comedy[1]"
+      "Science fiction",
+      "Romantic comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/When_the_Stars_Gossip"
   },
@@ -3088,8 +3088,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Motel_California_%28TV_series%29_poster.png/250px-Motel_California_%28TV_series%29_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Coming-of-age[1]",
-      "Romance[1]"
+      "Coming-of-age",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Motel_California_(TV_series)"
   },
@@ -3114,9 +3114,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Study_Group_%28TV_series%29_poster.png/250px-Study_Group_%28TV_series%29_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Action comedy[1]",
-      "Teen[1]",
-      "Coming-of-age[2]"
+      "Action comedy",
+      "Teen",
+      "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Study_Group_(TV_series)"
   },
@@ -3179,7 +3179,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romantic fantasy",
-      "Zombie comedy[1]"
+      "Zombie comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Newtopia"
   },
@@ -3367,8 +3367,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Villains_Everywhere_poster.png/250px-Villains_Everywhere_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Sitcom[1]",
-      "Family drama[1]"
+      "Sitcom",
+      "Family drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Villains_Everywhere"
   },
@@ -3432,8 +3432,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Crushology_101_poster.png/250px-Crushology_101_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romance drama[1]",
-      "Coming-of-age[2]"
+      "Romance drama",
+      "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Crushology_101"
   },
@@ -3521,8 +3521,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Spring_of_Youth_poster.png/250px-Spring_of_Youth_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Teen[1]",
-      "Romance[1]"
+      "Teen",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Spring_of_Youth_(TV_series)"
   },
@@ -3571,9 +3571,9 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Dear_Hongrang_poster.png/250px-Dear_Hongrang_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Mystery[1]",
-      "Melodrama[1]",
-      "Sageuk[1]"
+      "Mystery",
+      "Melodrama",
+      "Sageuk"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Dear_Hongrang"
   },
@@ -3586,7 +3586,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
-      "Crime thriller[1]"
+      "Crime thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Nine_Puzzles"
   },
@@ -3599,7 +3599,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
-      "Action comedy[1]"
+      "Action comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Oh_My_Ghost_Clients"
   },
@@ -3611,8 +3611,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Our_Unwritten_Seoul_poster.png/250px-Our_Unwritten_Seoul_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Coming-of-age[1]",
-      "Romance[1]"
+      "Coming-of-age",
+      "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Our_Unwritten_Seoul"
   },
@@ -3665,8 +3665,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/The_First_Night_With_the_Duke_poster.png/250px-The_First_Night_With_the_Duke_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Romance[1]",
-      "Fantasy[1]"
+      "Romance",
+      "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_First_Night_with_the_Duke"
   },
@@ -3716,7 +3716,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "School drama",
-      "Coming-of-age[1]"
+      "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/I_Am_a_Running_Mate"
   },
