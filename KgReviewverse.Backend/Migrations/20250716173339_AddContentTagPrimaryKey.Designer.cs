@@ -4,6 +4,7 @@ using KgReviewverse.Backend.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace KgReviewverse.Backend.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250716173339_AddContentTagPrimaryKey")]
+    partial class AddContentTagPrimaryKey
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -56,14 +59,8 @@ namespace KgReviewverse.Backend.Migrations
                     b.Property<string>("Description")
                         .HasColumnType("longtext");
 
-                    b.Property<DateTime?>("EndDate")
-                        .HasColumnType("datetime(6)");
-
                     b.Property<DateTime?>("ReleaseDate")
                         .HasColumnType("datetime(6)");
-
-                    b.Property<string>("SourceUrl")
-                        .HasColumnType("longtext");
 
                     b.Property<string>("Title")
                         .IsRequired()
@@ -87,6 +84,21 @@ namespace KgReviewverse.Backend.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("ContentCategory");
+                });
+
+            modelBuilder.Entity("KgReviewverse.Common.Models.Entities.ContentTag", b =>
+                {
+                    b.Property<int>("ContentId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TagId")
+                        .HasColumnType("int");
+
+                    b.HasKey("ContentId", "TagId");
+
+                    b.HasIndex("TagId");
+
+                    b.ToTable("ContentTags");
                 });
 
             modelBuilder.Entity("KgReviewverse.Common.Models.Entities.Like", b =>
@@ -148,6 +160,23 @@ namespace KgReviewverse.Backend.Migrations
                     b.ToTable("Reviews");
                 });
 
+            modelBuilder.Entity("KgReviewverse.Common.Models.Entities.Tag", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Tags");
+                });
+
             modelBuilder.Entity("KgReviewverse.Common.Models.Entities.User", b =>
                 {
                     b.Property<int>("Id")
@@ -198,6 +227,25 @@ namespace KgReviewverse.Backend.Migrations
                     b.Navigation("Content");
                 });
 
+            modelBuilder.Entity("KgReviewverse.Common.Models.Entities.ContentTag", b =>
+                {
+                    b.HasOne("KgReviewverse.Common.Models.Entities.Content", "Content")
+                        .WithMany("ContentTags")
+                        .HasForeignKey("ContentId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("KgReviewverse.Common.Models.Entities.Tag", "Tag")
+                        .WithMany("ContentTags")
+                        .HasForeignKey("TagId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Content");
+
+                    b.Navigation("Tag");
+                });
+
             modelBuilder.Entity("KgReviewverse.Common.Models.Entities.Like", b =>
                 {
                     b.HasOne("KgReviewverse.Common.Models.Entities.Review", "Review")
@@ -245,12 +293,19 @@ namespace KgReviewverse.Backend.Migrations
                 {
                     b.Navigation("ContentCategories");
 
+                    b.Navigation("ContentTags");
+
                     b.Navigation("Reviews");
                 });
 
             modelBuilder.Entity("KgReviewverse.Common.Models.Entities.Review", b =>
                 {
                     b.Navigation("Likes");
+                });
+
+            modelBuilder.Entity("KgReviewverse.Common.Models.Entities.Tag", b =>
+                {
+                    b.Navigation("ContentTags");
                 });
 
             modelBuilder.Entity("KgReviewverse.Common.Models.Entities.User", b =>

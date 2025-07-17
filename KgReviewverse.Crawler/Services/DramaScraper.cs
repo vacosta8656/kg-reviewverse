@@ -1,7 +1,7 @@
 using HtmlAgilityPack;
-using KgReviewverse.Crawler.Models;
 using KgReviewverse.Crawler.Config;
 using Microsoft.Extensions.Logging;
+using KgReviewverse.Common.Models.Utils;
 
 namespace KgReviewverse.Crawler.Services;
 
@@ -19,9 +19,9 @@ public class DramaScraper
         _logger = logger;
     }
 
-    public async Task<List<ScrapedDrama>> ScrapeAllDramasAsync()
+    public async Task<List<ImportContentDto>> ScrapeAllDramasAsync()
     {
-        var allDramas = new List<ScrapedDrama>();
+        var allDramas = new List<ImportContentDto>();
         
         _logger.LogInformation("Starting Korean drama scraping...");
         _logger.LogInformation("Years: {StartYear}-{EndYear}", _config.StartYear, _config.EndYear);
@@ -64,9 +64,9 @@ public class DramaScraper
         return yearLinks;
     }
 
-    private async Task<List<ScrapedDrama>> ScrapeYearAsync(string yearText, string yearUrl)
+    private async Task<List<ImportContentDto>> ScrapeYearAsync(string yearText, string yearUrl)
     {
-        var dramas = new List<ScrapedDrama>();
+        var dramas = new List<ImportContentDto>();
 
         try
         {
@@ -98,7 +98,7 @@ public class DramaScraper
             foreach (var row in dramaRows)
             {
                 var drama = await ScrapeDramaFromRowAsync(row, yearText);
-                if (drama != null)
+                if (drama != null && !string.IsNullOrWhiteSpace(drama.Title))
                 {
                     dramas.Add(drama);
                 }
@@ -112,7 +112,7 @@ public class DramaScraper
         return dramas;
     }
 
-    private async Task<ScrapedDrama?> ScrapeDramaFromRowAsync(HtmlNode row, string yearText)
+    private async Task<ImportContentDto?> ScrapeDramaFromRowAsync(HtmlNode row, string yearText)
     {
         try
         {
@@ -131,16 +131,18 @@ public class DramaScraper
             var imageUrl = ExtractImageUrl(dramaDoc);
             var description = ExtractDescription(dramaDoc);
             var categories = ExtractCategories(dramaDoc);
-            var releaseDate = ExtractReleaseDate(dramaDoc);
+            var datesString = ExtractDates(dramaDoc);
+            var releaseDate = StringFormatUtils.ParseDateByIndex(datesString, 0);
+            var endDate = StringFormatUtils.ParseDateByIndex(datesString, 1);
 
-            return new ScrapedDrama
+            return new ImportContentDto
             {
                 Title = title,
-                Categories = categories.ToArray(),
+                Categories = categories,
                 Description = description,
                 ReleaseDate = releaseDate,
+                EndDate = endDate,
                 CoverImageUrl = imageUrl,
-                Year = int.Parse(yearText),
                 SourceUrl = fullDramaUrl
             };
         }
@@ -190,31 +192,33 @@ public class DramaScraper
     {
         var categories = new List<string>();
         var categoryTd = doc.DocumentNode.SelectSingleNode("//td[contains(@class,'infobox-data category')]");
-
         if (categoryTd != null)
         {
             var liNodes = categoryTd.SelectNodes(".//ul/li");
             if (liNodes != null)
             {
-                categories = liNodes
-                    .Select(li => li.InnerText.Trim())
-                    .Where(text => !string.IsNullOrWhiteSpace(text))
-                    .ToList();
+                for (int i = 0; i < liNodes.Count; i++)
+                {
+                    var li = liNodes[i];
+                    var text = StringFormatUtils.RemoveNumbersAndBrackets(li.InnerText.Trim());
+                    var categoryList = StringFormatUtils.SplitCategoriesByUppercase(text);
+                    categories.AddRange(categoryList);
+                }
             }
             else
             {
-                var singleCategory = categoryTd.InnerText.Trim();
+                var singleCategory = StringFormatUtils.RemoveNumbersAndBrackets(categoryTd.InnerText.Trim());
                 if (!string.IsNullOrWhiteSpace(singleCategory))
                 {
-                    categories.Add(singleCategory);
+                    var singleCategoryList = StringFormatUtils.SplitCategoriesByUppercase(singleCategory);
+                    categories.AddRange(singleCategoryList);
                 }
             }
         }
-
-        return categories;
+        return [.. categories.Distinct()];
     }
 
-    private static string ExtractReleaseDate(HtmlDocument doc)
+    private static string ExtractDates(HtmlDocument doc)
     {
         var releaseDateNode = doc.DocumentNode
             .SelectSingleNode("//table[contains(@class,'infobox')]//th[contains(text(), 'Release')]/following-sibling::td") ??

@@ -1,5 +1,4 @@
 using System.Text.Json;
-using KgReviewverse.Crawler.Models;
 using Microsoft.Extensions.Logging;
 
 namespace KgReviewverse.Crawler.Services;
@@ -13,7 +12,7 @@ public class DataFormatter
         _logger = logger;
     }
 
-    public string SaveToJson(List<ScrapedDrama> dramas)
+    public string SaveToJson(List<ImportContentDto> dramas)
     {
         var jsonOptions = new JsonSerializerOptions
         {

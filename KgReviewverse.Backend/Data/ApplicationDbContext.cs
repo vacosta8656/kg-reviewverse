@@ -12,22 +12,22 @@ public class ApplicationDbContext : DbContext
     public DbSet<Content> Contents { get; set; }
     public DbSet<Review> Reviews { get; set; }
     public DbSet<Like> Likes { get; set; }
-    public DbSet<Tag> Tags { get; set; }
-    public DbSet<ContentTag> ContentTags { get; set; }
-
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<ContentTag>()
-            .HasKey(ct => new { ct.ContentId, ct.TagId });
+        base.OnModelCreating(modelBuilder);
 
-        modelBuilder.Entity<ContentTag>()
-            .HasOne(ct => ct.Content)
-            .WithMany(c => c.ContentTags)
-            .HasForeignKey(ct => ct.ContentId);
+        modelBuilder.Entity<ContentCategory>()
+            .HasKey(cc => new { cc.ContentId, cc.CategoryId });
 
-        modelBuilder.Entity<ContentTag>()
-            .HasOne(ct => ct.Tag)
-            .WithMany(t => t.ContentTags)
-            .HasForeignKey(ct => ct.TagId);
+        modelBuilder.Entity<ContentCategory>()
+            .HasOne(cc => cc.Content)
+            .WithMany(c => c.ContentCategories)
+            .HasForeignKey(cc => cc.ContentId);
+
+        modelBuilder.Entity<ContentCategory>()
+            .HasOne(cc => cc.Category)
+            .WithMany(c => c.ContentCategories)
+            .HasForeignKey(cc => cc.CategoryId);
+
     }
 }
