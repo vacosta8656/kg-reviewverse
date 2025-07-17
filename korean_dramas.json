@@ -48,7 +48,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Amor_Fati_TV_series.jpg/250px-Amor_Fati_TV_series.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "RomanceMelodrama"
+      "Romance",
+      "Melodrama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Amor_Fati_(TV_series)"
   },
@@ -74,7 +75,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/At_A_Distance_Spring_Is_Green.jpg/250px-At_A_Distance_Spring_Is_Green.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Slice-of-lifeComing of age"
+      "Slice-of-life",
+      "Coming of age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/At_a_Distance,_Spring_Is_Green"
   },
