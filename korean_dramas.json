@@ -8,11 +8,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Cooking show",
-      "Cooking",
-      "show",
+      "Cooking show",
       "Variety show",
-      "Variety",
-      "show",
+      "Variety show",
       "Comedy",
       "Comedy"
     ],
@@ -29,8 +27,7 @@
       "Procedural",
       "Procedural",
       "Psychological thriller",
-      "Psychological",
-      "thriller"
+      "Psychological thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Beyond_Evil_(TV_series)"
   },
@@ -100,9 +97,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Children\u0027s television series",
-      "Children\u0027s",
-      "television",
-      "series"
+      "Children\u0027s television series"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Beasts_of_Asia_(TV_series)"
   },
@@ -115,8 +110,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Military drama",
-      "Military",
-      "drama",
+      "Military drama",
       "Action",
       "Action"
     ],
