@@ -16,6 +16,4 @@ public class Review
     public string Text { get; set; } = null!;
 
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-
-    public ICollection<Like> Likes { get; set; } = new List<Like>();
 }

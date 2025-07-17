@@ -15,5 +15,4 @@ public class User
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
     public ICollection<Review> Reviews { get; set; } = new List<Review>();
-    public ICollection<Like> Likes { get; set; } = new List<Like>();
 }
