@@ -8,7 +8,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Cooking show",
+      "Cooking",
+      "show",
       "Variety show",
+      "Variety",
+      "show",
+      "Comedy",
       "Comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Crazy_Recipe_Adventure"
@@ -22,7 +27,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Procedural",
-      "Psychological thriller"
+      "Procedural",
+      "Psychological thriller",
+      "Psychological",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Beyond_Evil_(TV_series)"
   },
@@ -35,7 +43,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
+      "Drama",
       "Comedy",
+      "Comedy",
+      "Family",
       "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Be_My_Dream_Family"
@@ -61,6 +72,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Historical Drama",
+      "Historical",
+      "Drama",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Bossam:_Steal_the_Fate"
@@ -85,7 +99,10 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Beasts_of_asia.png/250px-Beasts_of_asia.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Children\u0027s television series"
+      "Children\u0027s television series",
+      "Children\u0027s",
+      "television",
+      "series"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Beasts_of_Asia_(TV_series)"
   },
@@ -98,6 +115,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Military drama",
+      "Military",
+      "drama",
+      "Action",
       "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/D.P._(TV_series)"
@@ -111,8 +131,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Dystopian",
+      "Dystopian",
+      "Survival",
       "Survival",
       "Thriller",
+      "Thriller",
+      "Drama",
       "Drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Squid_Game"
@@ -126,7 +150,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
+      "Drama",
       "Melodrama",
+      "Melodrama",
+      "Family",
       "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_All-Round_Wife"
@@ -152,6 +179,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Psychological",
+      "Psychological",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_City"
@@ -165,8 +194,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
+      "Mystery",
+      "Drama",
       "Drama",
       "Thriller",
+      "Thriller",
+      "Comedy",
       "Comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Bad_and_Crazy"
@@ -180,6 +213,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Bulgasal:_Immortal_Souls"
@@ -193,7 +228,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Comedy",
-      "Medical drama"
+      "Comedy",
+      "Medical drama",
+      "Medical",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Dr._Park%27s_Clinic"
   },
@@ -206,6 +244,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Crime",
+      "Crime",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Through_the_Darkness_(TV_series)"
@@ -219,7 +259,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
-      "Medical drama"
+      "Fantasy",
+      "Medical drama",
+      "Medical",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Ghost_Doctor"
   },
@@ -232,8 +275,14 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Coming of age",
+      "Coming",
+      "of",
+      "age",
+      "Drama",
       "Drama",
       "Procedural",
+      "Procedural",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Rookie_Cops"
@@ -247,8 +296,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Coming-of-age",
+      "Coming-of-age",
       "Horror",
-      "Zombie apocalypse"
+      "Horror",
+      "Zombie apocalypse",
+      "Zombie",
+      "apocalypse"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/All_of_Us_Are_Dead"
   },
@@ -273,7 +326,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Thriller",
-      "Science fiction"
+      "Thriller",
+      "Science fiction",
+      "Science",
+      "fiction"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Grid_(South_Korean_TV_series)"
   },
@@ -286,8 +342,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "BL",
+      "B",
+      "L",
       "Drama",
-      "Romantic comedy"
+      "Drama",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Semantic_Error_(TV_series)"
   },
@@ -324,8 +385,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
+      "Drama",
+      "Thriller",
       "Thriller",
       "Romance",
+      "Romance",
+      "Revenge",
       "Revenge"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Sponsor_(TV_series)"
@@ -363,6 +428,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Military",
+      "Military",
+      "Legal",
       "Legal"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Military_Prosecutor_Doberman"
@@ -400,6 +467,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
+      "Drama",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Kill_Heel"
@@ -423,6 +492,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
+      "Drama",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/A_Superior_Day"
@@ -448,6 +519,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
+      "Drama",
+      "Friendship",
       "Friendship"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Green_Mothers%27_Club"
@@ -461,6 +534,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
+      "Action",
       "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Again_My_Life"
@@ -484,6 +559,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
+      "Romance",
+      "Music",
       "Music"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Soundtrack_1"
@@ -509,7 +586,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Comedy",
+      "Comedy",
       "Mystery",
+      "Mystery",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Killer%27s_Shopping_List"
@@ -523,7 +603,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
+      "Drama",
       "Romantic comedy",
+      "Romantic",
+      "comedy",
+      "Family",
       "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Bravo,_My_Life_(2022_TV_series)"
@@ -561,6 +645,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romantic comedy",
+      "Romantic",
+      "comedy",
+      "Fantasy",
       "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/From_Now_On,_Showtime!"
@@ -584,8 +671,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
+      "Drama",
       "Romance",
-      "Sports drama"
+      "Romance",
+      "Sports drama",
+      "Sports",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Love_All_Play_(TV_series)"
   },
@@ -598,8 +689,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Musical",
+      "Musical",
       "Fantasy",
-      "Coming of Age"
+      "Fantasy",
+      "Coming of Age",
+      "Coming",
+      "of",
+      "Age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Sound_of_Magic"
   },
@@ -612,8 +708,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
+      "Romance",
       "Romance",
       "Period drama",
+      "Period",
+      "drama",
+      "Action",
       "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Alchemy_of_Souls"
@@ -627,6 +728,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Jinxed_at_First"
@@ -662,7 +765,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Workplace",
-      "Romantic comedy"
+      "Workplace",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Don%27t_Dare_to_Dream"
   },
@@ -675,8 +781,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action",
+      "Action",
       "Melodrama",
-      "Political thriller"
+      "Melodrama",
+      "Political thriller",
+      "Political",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_K2"
   },
@@ -689,7 +799,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
+      "Drama",
       "Melodrama",
+      "Melodrama",
+      "Family",
       "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_All-Round_Wife"
@@ -703,6 +816,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Comedy",
+      "Comedy",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Brain_Works"
@@ -716,9 +831,15 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Revenge",
+      "Revenge",
+      "Thriller",
       "Thriller",
       "Legal drama",
+      "Legal",
+      "drama",
       "Action",
+      "Action",
+      "Crime",
       "Crime"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Payback_(South_Korean_TV_series)"
@@ -756,7 +877,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
-      "Legal drama"
+      "Romance",
+      "Legal drama",
+      "Legal",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Strangers_Again_(TV_series)"
   },
@@ -769,6 +893,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Kokdu:_Season_of_Deity"
@@ -782,7 +908,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Period drama",
+      "Period",
+      "drama",
       "Romance",
+      "Romance",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Our_Blooming_Youth"
@@ -808,7 +938,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
-      "Romantic comedy"
+      "Fantasy",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Heavenly_Idol"
   },
@@ -821,6 +954,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Revenge",
+      "Revenge",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Pandora:_Beneath_the_Paradise"
@@ -834,8 +969,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Melodrama",
+      "Melodrama",
       "Revenge",
-      "Body swap"
+      "Revenge",
+      "Body swap",
+      "Body",
+      "swap"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Woman_in_a_Veil"
   },
@@ -848,9 +987,15 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Period drama",
+      "Period",
+      "drama",
+      "Revenge",
       "Revenge",
       "Action",
+      "Action",
       "Legal",
+      "Legal",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Joseon_Attorney"
@@ -864,8 +1009,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Period drama",
+      "Period",
+      "drama",
       "Mystery",
-      "Romantic comedy"
+      "Mystery",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Secret_Romantic_Guesthouse"
   },
@@ -878,9 +1028,15 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Military sci-fi",
+      "Military",
+      "sci-fi",
+      "Thriller",
       "Thriller",
       "Dystopian",
-      "Teen drama"
+      "Dystopian",
+      "Teen drama",
+      "Teen",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Duty_After_School"
   },
@@ -905,7 +1061,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action",
+      "Action",
       "Comedy",
+      "Comedy",
+      "Crime",
       "Crime"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Stealer:_The_Treasure_Keeper"
@@ -931,8 +1090,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Medical",
+      "Medical",
       "Comedy",
-      "Family drama"
+      "Comedy",
+      "Family drama",
+      "Family",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Doctor_Cha"
   },
@@ -945,6 +1108,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Comedy drama",
+      "Comedy",
+      "drama",
+      "Spy",
       "Spy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Family:_The_Unbreakable_Bond"
@@ -958,8 +1124,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Melodrama",
+      "Melodrama",
+      "Mystery",
       "Mystery",
       "Revenge",
+      "Revenge",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Queen_of_Masks"
@@ -973,7 +1143,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Family",
+      "Family",
       "Comedy drama",
+      "Comedy",
+      "drama",
+      "Slice-of-life",
       "Slice-of-life"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Good_Bad_Mother"
@@ -987,7 +1161,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
+      "Romance",
       "Medical",
+      "Medical",
+      "Melodrama",
       "Melodrama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Dr._Romantic_3"
@@ -1001,7 +1178,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
       "Mystery",
+      "Mystery",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/My_Perfect_Stranger"
@@ -1015,7 +1195,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Teen drama",
+      "Teen",
+      "drama",
       "Comedy",
+      "Comedy",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/All_That_We_Loved"
@@ -1029,6 +1213,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action",
+      "Action",
+      "Fantasy",
       "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Tale_of_the_Nine_Tailed_1938"
@@ -1042,7 +1228,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Science fiction",
+      "Science",
+      "fiction",
       "Dystopian",
+      "Dystopian",
+      "Action",
       "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Black_Knight_(South_Korean_TV_series)"
@@ -1056,7 +1246,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Revenge",
+      "Revenge",
       "Crime",
+      "Crime",
+      "Comedy",
       "Comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Delightfully_Deceitful"
@@ -1070,6 +1263,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Suspense thriller",
+      "Suspense",
+      "thriller",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Battle_for_Happiness"
@@ -1083,6 +1279,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/See_You_in_My_19th_Life"
@@ -1108,6 +1306,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Suspense thriller",
+      "Suspense",
+      "thriller",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Lies_Hidden_in_My_Garden"
@@ -1121,7 +1322,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
+      "Mystery",
       "Thriller",
+      "Thriller",
+      "Horror",
       "Horror"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Revenant_(TV_series)"
@@ -1135,7 +1339,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
       "Melodrama",
+      "Melodrama",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Durian%27s_Affair"
@@ -1161,6 +1368,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Comedy drama",
+      "Comedy",
+      "drama",
+      "Family",
       "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Not_Others"
@@ -1174,6 +1384,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
+      "Mystery",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Longing_for_You_(TV_series)"
@@ -1187,7 +1399,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
-      "Romantic comedy"
+      "Mystery",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/My_Lovely_Liar"
   },
@@ -1200,7 +1415,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Crime",
+      "Crime",
       "Thriller",
+      "Thriller",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_First_Responders_2"
@@ -1214,11 +1432,18 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action",
+      "Action",
+      "Fantasy",
       "Fantasy",
       "Thriller",
+      "Thriller",
+      "Sci-fi",
       "Sci-fi",
       "Romance",
-      "Family drama"
+      "Romance",
+      "Family drama",
+      "Family",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Moving_(South_Korean_TV_series)"
   },
@@ -1231,7 +1456,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Hardboiled",
+      "Hardboiled",
       "Thriller",
+      "Thriller",
+      "Crime",
       "Crime"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Killing_Vote"
@@ -1245,7 +1473,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Black comedy",
+      "Black",
+      "comedy",
       "Crime",
+      "Crime",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Mask_Girl"
@@ -1259,7 +1491,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Time travel",
+      "Time",
+      "travel",
       "Mystery",
+      "Mystery",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/A_Time_Called_You"
@@ -1285,8 +1521,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Revenge drama",
+      "Revenge",
+      "drama",
+      "Picaresque",
       "Picaresque",
       "Crime",
+      "Crime",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Escape_of_the_Seven"
@@ -1300,6 +1541,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Family drama",
+      "Family",
+      "drama",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Live_Your_Own_Life"
@@ -1313,9 +1557,14 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
+      "Romance",
       "Romance",
       "Coming-of-age",
-      "Time travel"
+      "Coming-of-age",
+      "Time travel",
+      "Time",
+      "travel"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Twinkling_Watermelon"
   },
@@ -1328,7 +1577,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Crime action",
+      "Crime",
+      "action",
       "Thriller",
+      "Thriller",
+      "Noir",
       "Noir"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Worst_of_Evil"
@@ -1342,9 +1595,14 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action",
+      "Action",
+      "Comedy",
       "Comedy",
       "Crime",
-      "Family drama"
+      "Crime",
+      "Family drama",
+      "Family",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Strong_Girl_Nam-soon"
   },
@@ -1369,6 +1627,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
+      "Romance",
+      "Revenge",
       "Revenge"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Third_Marriage"
@@ -1382,7 +1642,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
-      "Revenge drama"
+      "Romance",
+      "Revenge drama",
+      "Revenge",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Perfect_Marriage_Revenge"
   },
@@ -1395,7 +1658,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
       "Reincarnation",
+      "Reincarnation",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Moon_in_the_Day"
@@ -1409,6 +1675,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Medical drama",
+      "Medical",
+      "drama",
+      "Comedy",
       "Comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Daily_Dose_of_Sunshine"
@@ -1434,7 +1703,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Sageuk",
+      "Sageuk",
       "War drama",
+      "War",
+      "drama",
+      "Action",
       "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Korea%E2%80%93Khitan_War"
@@ -1448,6 +1721,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Psychological drama",
+      "Psychological",
+      "drama",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/A_Bloody_Lucky_Day"
@@ -1461,7 +1737,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romantic comedy",
+      "Romantic",
+      "comedy",
       "Period drama",
+      "Period",
+      "drama",
+      "Fantasy",
       "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Story_of_Park%27s_Marriage_Contract"
@@ -1475,7 +1756,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
-      "Romantic comedy"
+      "Fantasy",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/My_Demon"
   },
@@ -1488,7 +1772,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Psychological drama",
+      "Psychological",
+      "drama",
       "Thriller",
+      "Thriller",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/My_Happy_Ending_(TV_series)"
@@ -1502,10 +1790,17 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Historical drama",
+      "Historical",
+      "drama",
+      "Suspense",
       "Suspense",
       "Mystery",
+      "Mystery",
+      "Horror",
       "Horror",
       "Thriller",
+      "Thriller",
+      "Action",
       "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Gyeongseong_Creature"
@@ -1519,7 +1814,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Comedy drama",
-      "Romantic comedy"
+      "Comedy",
+      "drama",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Welcome_to_Samdal-ri"
   },
@@ -1532,10 +1831,17 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romantic comedy",
+      "Romantic",
+      "comedy",
+      "Fantasy",
       "Fantasy",
       "Revenge",
+      "Revenge",
       "Workplace",
-      "Time travel"
+      "Workplace",
+      "Time travel",
+      "Time",
+      "travel"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Marry_My_Husband"
   },
@@ -1548,7 +1854,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
       "Period",
+      "Period",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Love_Song_for_Illusion"
@@ -1562,8 +1871,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Period drama",
+      "Period",
+      "drama",
+      "Comedy",
       "Comedy",
       "Action",
+      "Action",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Knight_Flower"
@@ -1589,8 +1903,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Occult",
+      "Occult",
+      "Thriller",
       "Thriller",
       "Suspense",
+      "Suspense",
+      "Horror",
       "Horror"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Bequeathed"
@@ -1604,6 +1922,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Black comedy",
+      "Black",
+      "comedy",
+      "Satire",
       "Satire"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/LTNS_(TV_series)"
@@ -1617,7 +1938,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Period drama",
+      "Period",
+      "drama",
       "Romance",
+      "Romance",
+      "Melodrama",
       "Melodrama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Captivating_the_King"
@@ -1631,8 +1956,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Family",
+      "Family",
+      "Revenge",
       "Revenge",
       "Suspense",
+      "Suspense",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Two_Sisters_(TV_series)"
@@ -1646,8 +1975,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action",
+      "Action",
+      "Comedy",
       "Comedy",
       "Crime",
+      "Crime",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Flex_X_Cop"
@@ -1661,7 +1994,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Medical drama",
-      "Romantic comedy"
+      "Medical",
+      "drama",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Doctor_Slump_(TV_series)"
   },
@@ -1698,7 +2035,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Crime thriller",
-      "Dark comedy"
+      "Crime",
+      "thriller",
+      "Dark comedy",
+      "Dark",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/A_Killer_Paradox"
   },
@@ -1723,21 +2064,29 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Revenge drama",
+      "Revenge",
+      "drama",
       "Workplace",
+      "Workplace",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Impossible_Heir"
   },
   {
     "title": "Pyramid Game",
-    "description": "The series follows transfer student Seong Soo-ji, who falls to the bottom of the class and becomes the subject of bullying and violence. In an effort to finally put an end to Pyramid Game, Soo-ji attempted to climb the social ladder out of desperation to save herself.[4]",
+    "description": "The series follows transfer student Seong Soo-ji, who falls to the bottom of the class and becomes the subject of bullying and violence. In an effort to finally put an end to Pyramid Game, she atempted to climb the social ladder out of desperation to save herself.[4]",
     "releaseDate": "2024-02-29T00:00:00",
     "endDate": "2024-03-21T00:00:00",
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Pyramid_Game_%28TV_series%29_poster.jpg/250px-Pyramid_Game_%28TV_series%29_poster.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Psychological thriller",
+      "Psychological",
+      "thriller",
       "Survival",
+      "Survival",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Pyramid_Game_(TV_series)"
@@ -1747,11 +2096,15 @@
     "description": "Wonderful World tells a story about an author and professor whose life falls apart after her son is killed in a hit-and-run accident. She seeks justice but ends up committing a crime herself and is sentenced to prison. The show explores themes of grief, guilt, and redemption.[1]",
     "releaseDate": "2024-03-01T00:00:00",
     "endDate": "2024-04-13T00:00:00",
-    "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/2/25/Wonderful_World_%28South_Korean_TV_series%29_poster.png",
+    "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Wonderful_World_%28South_Korean_TV_series%29_poster.png/250px-Wonderful_World_%28South_Korean_TV_series%29_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Revenge drama",
+      "Revenge",
+      "drama",
       "Thriller",
+      "Thriller",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Wonderful_World_(South_Korean_TV_series)"
@@ -1777,6 +2130,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Midnight_Studio"
@@ -1790,6 +2145,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Comedy",
+      "Comedy",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Chicken_Nugget_(TV_series)"
@@ -1803,7 +2160,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Melodrama",
+      "Melodrama",
       "Thriller",
+      "Thriller",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Nothing_Uncovered"
@@ -1817,6 +2177,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
+      "Romance",
+      "Coming-of-age",
       "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Beauty_and_Mr._Romantic"
@@ -1830,6 +2192,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
+      "Mystery",
+      "Suspense",
       "Suspense"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Hide_(TV_series)"
@@ -1843,6 +2207,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
+      "Romance",
+      "Family",
       "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Suji_%26_Uri"
@@ -1856,9 +2222,16 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "BL",
+      "B",
+      "L",
       "Musical drama",
+      "Musical",
+      "drama",
       "Drama",
-      "Romantic comedy"
+      "Drama",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Jazz_for_Two"
   },
@@ -1871,8 +2244,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Revenge drama",
+      "Revenge",
+      "drama",
+      "Picaresque",
       "Picaresque",
       "Crime",
+      "Crime",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Escape_of_the_Seven:_Resurrection"
@@ -1886,8 +2264,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Science fiction",
+      "Science",
+      "fiction",
       "Horror",
-      "Body snatcher"
+      "Horror",
+      "Body snatcher",
+      "Body",
+      "snatcher"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Parasyte:_The_Grey"
   },
@@ -1900,7 +2283,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Time slip",
+      "Time",
+      "slip",
       "Romantic comedy",
+      "Romantic",
+      "comedy",
+      "Fantasy",
       "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Lovely_Runner"
@@ -1924,7 +2312,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Sci-fi",
+      "Sci-fi",
       "Thriller",
+      "Thriller",
+      "Drama",
       "Drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Blood_Free"
@@ -1950,7 +2341,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Period drama",
-      "Romantic comedy"
+      "Period",
+      "drama",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Missing_Crown_Prince"
   },
@@ -1963,8 +2358,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Period drama",
+      "Period",
+      "drama",
+      "Crime",
       "Crime",
       "Comedy",
+      "Comedy",
+      "Action",
       "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Chief_Detective_1958"
@@ -1978,6 +2378,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Science fiction",
+      "Science",
+      "fiction",
+      "Dystopian",
       "Dystopian"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Goodbye_Earth"
@@ -2003,6 +2406,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Comedy",
+      "Comedy",
+      "Melodrama",
       "Melodrama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Frankly_Speaking_(TV_series)"
@@ -2028,6 +2433,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
+      "Romance",
+      "Revenge",
       "Revenge"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Brave_Yong_Su-jeong"
@@ -2041,6 +2448,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
+      "Romance",
+      "Melodrama",
       "Melodrama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Midnight_Romance_in_Hagwon"
@@ -2054,8 +2463,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Comedy",
+      "Comedy",
       "Crime",
-      "Police procedural"
+      "Crime",
+      "Police procedural",
+      "Police",
+      "procedural"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Crash_(South_Korean_TV_series)"
   },
@@ -2080,6 +2493,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Period drama",
+      "Period",
+      "drama",
+      "Political",
       "Political"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Uncle_Samsik"
@@ -2093,8 +2509,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Black comedy",
+      "Black",
+      "comedy",
       "Thriller",
-      "Satirical drama"
+      "Thriller",
+      "Satirical drama",
+      "Satirical",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_8_Show"
   },
@@ -2107,6 +2528,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Black comedy",
+      "Black",
+      "comedy",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Bitter_Sweet_Hell"
@@ -2120,8 +2544,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Psychological",
+      "Psychological",
+      "Crime",
       "Crime",
       "Police procedural",
+      "Police",
+      "procedural",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Connection_(TV_series)"
@@ -2135,8 +2564,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
       "Teen drama",
+      "Teen",
+      "drama",
       "Action",
+      "Action",
+      "Revenge",
       "Revenge"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/High_School_Return_of_a_Gangster"
@@ -2162,6 +2596,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action",
+      "Action",
+      "Crime",
       "Crime"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Player_2:_Master_of_Swindlers"
@@ -2187,7 +2623,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Teen drama",
+      "Teen",
+      "drama",
       "Romance",
+      "Romance",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Hierarchy_(TV_series)"
@@ -2213,7 +2653,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romantic comedy",
+      "Romantic",
+      "comedy",
       "Fantasy",
+      "Fantasy",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Miss_Night_and_Day"
@@ -2227,8 +2671,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Melodrama",
+      "Melodrama",
+      "Romance",
       "Romance",
       "Revenge",
+      "Revenge",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Snow_White%27s_Revenge"
@@ -2254,7 +2702,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
-      "Revenge drama"
+      "Romance",
+      "Revenge drama",
+      "Revenge",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Red_Swan_(TV_series)"
   },
@@ -2267,7 +2718,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Workplace",
-      "Action drama"
+      "Workplace",
+      "Action drama",
+      "Action",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Auditors"
   },
@@ -2280,6 +2734,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Legal drama",
+      "Legal",
+      "drama",
+      "Workplace",
       "Workplace"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Good_Partner"
@@ -2293,7 +2750,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Horror",
+      "Horror",
       "Mystery",
+      "Mystery",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Tarot_(TV_series)"
@@ -2319,8 +2779,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Apocalyptic",
+      "Apocalyptic",
+      "Horror",
       "Horror",
       "Action",
+      "Action",
+      "Fantasy",
       "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Sweet_Home_3"
@@ -2346,6 +2810,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
+      "Mystery",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/No_Way_Out:_The_Roulette"
@@ -2383,7 +2849,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Melodrama",
+      "Melodrama",
       "Romance",
+      "Romance",
+      "Family",
       "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Romance_in_the_House"
@@ -2393,11 +2862,15 @@
     "description": "A judge who covers up his son\u0027s murder and a criminal gang boss who chase his son\u0027s killer. A paternal instinct confrontation between two fathers who decide to become monsters for their children.",
     "releaseDate": "2024-08-12T00:00:00",
     "endDate": "2024-09-10T00:00:00",
-    "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/7/79/Your_Honor_%282024_TV_series%29_poster.png",
+    "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Your_Honor_%282024_TV_series%29_poster.png/250px-Your_Honor_%282024_TV_series%29_poster.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Crime drama",
-      "Legal thriller"
+      "Crime",
+      "drama",
+      "Legal thriller",
+      "Legal",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Your_Honor_(2024_TV_series)"
   },
@@ -2410,6 +2883,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action thriller",
+      "Action",
+      "thriller",
+      "Spy",
       "Spy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Tyrant_(TV_series)"
@@ -2423,6 +2899,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Family",
+      "Family",
+      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Perfect_Family"
@@ -2436,7 +2914,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
+      "Mystery",
       "Crime",
+      "Crime",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Black_Out_(TV_series)"
@@ -2486,7 +2967,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
-      "Crime thriller"
+      "Mystery",
+      "Crime thriller",
+      "Crime",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Frog_(South_Korean_TV_series)"
   },
@@ -2499,6 +2983,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romantic comedy",
+      "Romantic",
+      "comedy",
+      "Workplace",
       "Workplace"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Cinderella_at_2_AM"
@@ -2524,6 +3011,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Sageuk",
+      "Sageuk",
+      "Action",
       "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Queen_Woo"
@@ -2537,6 +3026,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Teen drama",
+      "Teen",
+      "drama",
+      "Coming-of-age",
       "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Fragile_(TV_series)"
@@ -2562,8 +3054,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Dark fantasy",
+      "Dark",
+      "fantasy",
       "Action",
-      "Legal thriller"
+      "Action",
+      "Legal thriller",
+      "Legal",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Judge_from_Hell"
   },
@@ -2576,7 +3073,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
+      "Romance",
       "Psychological drama",
+      "Psychological",
+      "drama",
+      "Workplace",
       "Workplace"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Dear_Hyeri"
@@ -2602,10 +3103,17 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Historical drama",
+      "Historical",
+      "drama",
+      "Suspense",
       "Suspense",
       "Mystery",
+      "Mystery",
+      "Horror",
       "Horror",
       "Thriller",
+      "Thriller",
+      "Action",
       "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Gyeongseong_Creature_2"
@@ -2619,6 +3127,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
+      "Romance",
+      "Melodrama",
       "Melodrama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/What_Comes_After_Love"
@@ -2632,7 +3142,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Black comedy",
+      "Black",
+      "comedy",
       "Romantic",
+      "Romantic",
+      "Family",
       "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Iron_Family"
@@ -2646,6 +3160,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romantic comedy",
+      "Romantic",
+      "comedy",
+      "Fantasy",
       "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Spice_Up_Our_Love"
@@ -2659,7 +3176,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Family",
-      "Romantic comedy"
+      "Family",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/My_Merry_Marriage"
   },
@@ -2672,8 +3192,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romantic comedy",
+      "Romantic",
+      "comedy",
       "Coming-of-age",
-      "Family drama"
+      "Coming-of-age",
+      "Family drama",
+      "Family",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Family_by_Choice"
   },
@@ -2686,7 +3211,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Crime thriller",
-      "Legal drama"
+      "Crime",
+      "thriller",
+      "Legal drama",
+      "Legal",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Dongjae,_the_Good_or_the_Bastard"
   },
@@ -2699,7 +3228,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Psychological thriller",
-      "Crime drama"
+      "Psychological",
+      "thriller",
+      "Crime drama",
+      "Crime",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Doubt_(South_Korean_TV_series)"
   },
@@ -2712,7 +3245,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Period drama",
+      "Period",
+      "drama",
       "Coming-of-age",
+      "Coming-of-age",
+      "Musical",
       "Musical"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Jeongnyeon:_The_Star_Is_Born"
@@ -2738,8 +3275,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Melodrama",
+      "Melodrama",
       "Coming-of-age",
-      "Slice of life"
+      "Coming-of-age",
+      "Slice of life",
+      "Slice",
+      "of",
+      "life"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Love_in_the_Big_City_(TV_series)"
   },
@@ -2752,7 +3294,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Supernatural",
+      "Supernatural",
       "Dark fantasy",
+      "Dark",
+      "fantasy",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Hellbound_2"
@@ -2790,8 +3336,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Medical drama",
+      "Medical",
+      "drama",
+      "Melodrama",
       "Melodrama",
       "Mystery",
+      "Mystery",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Face_Me"
@@ -2829,7 +3380,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Comedy",
-      "Crime action"
+      "Comedy",
+      "Crime action",
+      "Crime",
+      "action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Fiery_Priest_2"
   },
@@ -2842,6 +3396,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Teen drama",
+      "Teen",
+      "drama",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Social_Savvy_Class_101"
@@ -2855,6 +3412,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Family",
+      "Family",
+      "Comedy",
       "Comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Marry_You_(TV_series)"
@@ -2868,7 +3427,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Melodrama",
+      "Melodrama",
       "Romance",
+      "Romance",
+      "Revenge",
       "Revenge"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Desperate_Mrs._Seonju"
@@ -2882,6 +3444,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Legal drama",
+      "Legal",
+      "drama",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Parole_Examiner_Lee"
@@ -2895,8 +3460,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Melodrama",
+      "Melodrama",
+      "Romance",
       "Romance",
       "Mystery",
+      "Mystery",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/When_the_Phone_Rings"
@@ -2922,6 +3491,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
+      "Mystery",
+      "Melodrama",
       "Melodrama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Trunk_(TV_series)"
@@ -2947,7 +3518,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Historical drama",
-      "Romantic thriller"
+      "Historical",
+      "drama",
+      "Romantic thriller",
+      "Romantic",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Tale_of_Lady_Ok"
   },
@@ -2960,8 +3535,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Melodrama",
+      "Melodrama",
+      "Revenge",
       "Revenge",
       "Family",
+      "Family",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Cinderella_Game"
@@ -2975,6 +3554,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
+      "Mystery",
+      "Horror",
       "Horror"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Light_Shop"
@@ -3000,7 +3581,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romantic fantasy",
+      "Romantic",
+      "fantasy",
       "Musical",
+      "Musical",
+      "Coming-of-age",
       "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Who_Is_She"
@@ -3014,7 +3599,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Historical",
+      "Historical",
       "Romance",
+      "Romance",
+      "Coming-of-age",
       "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Check-in_Hanyang"
@@ -3028,6 +3616,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Slice of life",
+      "Slice",
+      "of",
+      "life",
+      "Workplace",
       "Workplace"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Namib_(TV_series)"
@@ -3051,6 +3643,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance drama",
+      "Romance",
+      "drama",
+      "Workplace",
       "Workplace"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Love_Scout"
@@ -3064,7 +3659,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Science fiction",
-      "Romantic comedy"
+      "Science",
+      "fiction",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/When_the_Stars_Gossip"
   },
@@ -3089,6 +3688,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Coming-of-age",
+      "Coming-of-age",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Motel_California_(TV_series)"
@@ -3102,7 +3703,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Workplace comedy",
-      "Crime thriller"
+      "Workplace",
+      "comedy",
+      "Crime thriller",
+      "Crime",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Unmasked_(TV_series)"
   },
@@ -3115,7 +3720,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action comedy",
+      "Action",
+      "comedy",
       "Teen",
+      "Teen",
+      "Coming-of-age",
       "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Study_Group_(TV_series)"
@@ -3129,6 +3738,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Medical",
+      "Medical",
+      "Comedy",
       "Comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Trauma_Code:_Heroes_on_Call"
@@ -3154,7 +3765,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Sitcom",
-      "Office comedy"
+      "Sitcom",
+      "Office comedy",
+      "Office",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Kick_Kick_Kick_Kick"
   },
@@ -3179,7 +3793,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romantic fantasy",
-      "Zombie comedy"
+      "Romantic",
+      "fantasy",
+      "Zombie comedy",
+      "Zombie",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Newtopia"
   },
@@ -3192,7 +3810,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Teen drama",
+      "Teen",
+      "drama",
       "Mystery",
+      "Mystery",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Friendly_Rivalry"
@@ -3230,6 +3852,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
+      "Mystery",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Witch_(TV_series)"
@@ -3267,6 +3891,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action comedy",
+      "Action",
+      "comedy",
+      "Spy",
       "Spy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Undercover_High_School"
@@ -3292,7 +3919,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "BL",
+      "B",
+      "L",
       "Romance",
+      "Romance",
+      "Workplace",
       "Workplace"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Secret_Relationships"
@@ -3330,6 +3961,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
+      "Romance",
+      "Slice-of-life",
       "Slice-of-life"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/When_Life_Gives_You_Tangerines"
@@ -3355,7 +3988,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Medical drama",
-      "Crime thriller"
+      "Medical",
+      "drama",
+      "Crime thriller",
+      "Crime",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Hyper_Knife"
   },
@@ -3368,7 +4005,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Sitcom",
-      "Family drama"
+      "Sitcom",
+      "Family drama",
+      "Family",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Villains_Everywhere"
   },
@@ -3381,8 +4021,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Time slip",
+      "Time",
+      "slip",
       "Fantasy",
-      "Romantic comedy"
+      "Fantasy",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Heo%27s_Diner"
   },
@@ -3395,7 +4040,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Workplace",
-      "Romantic comedy"
+      "Workplace",
+      "Romantic comedy",
+      "Romantic",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Divorce_Insurance"
   },
@@ -3408,7 +4056,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Coming-of-age",
-      "Romantic fantasy"
+      "Coming-of-age",
+      "Romantic fantasy",
+      "Romantic",
+      "fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Way_Back_Love"
   },
@@ -3433,6 +4084,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance drama",
+      "Romance",
+      "drama",
+      "Coming-of-age",
       "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Crushology_101"
@@ -3458,8 +4112,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romantic comedy",
+      "Romantic",
+      "comedy",
       "Fantasy",
-      "Period drama"
+      "Fantasy",
+      "Period drama",
+      "Period",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Haunted_Palace_(TV_series)"
   },
@@ -3484,8 +4143,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Coming-of-age",
+      "Coming-of-age",
       "Action",
-      "Drama thriller"
+      "Action",
+      "Drama thriller",
+      "Drama",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Weak_Hero_Class_2"
   },
@@ -3522,6 +4185,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Teen",
+      "Teen",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Spring_of_Youth_(TV_series)"
@@ -3559,7 +4224,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action thriller",
-      "Crime drama"
+      "Action",
+      "thriller",
+      "Crime drama",
+      "Crime",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Shark:_The_Storm"
   },
@@ -3572,7 +4241,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
+      "Mystery",
       "Melodrama",
+      "Melodrama",
+      "Sageuk",
       "Sageuk"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Dear_Hongrang"
@@ -3586,7 +4258,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
-      "Crime thriller"
+      "Mystery",
+      "Crime thriller",
+      "Crime",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Nine_Puzzles"
   },
@@ -3599,7 +4274,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
-      "Action comedy"
+      "Fantasy",
+      "Action comedy",
+      "Action",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Oh_My_Ghost_Clients"
   },
@@ -3612,6 +4290,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Coming-of-age",
+      "Coming-of-age",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Our_Unwritten_Seoul"
@@ -3625,6 +4305,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action",
+      "Action",
+      "Coming-of-age",
       "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/One:_High_School_Heroes"
@@ -3638,7 +4320,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action comedy",
+      "Action",
+      "comedy",
       "Crime",
+      "Crime",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Good_Boy_(TV_series)"
@@ -3652,8 +4338,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action",
+      "Action",
       "Noir",
-      "Revenge drama"
+      "Noir",
+      "Revenge drama",
+      "Revenge",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Mercy_for_None"
   },
@@ -3666,6 +4356,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Romance",
+      "Romance",
+      "Fantasy",
       "Fantasy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_First_Night_with_the_Duke"
@@ -3691,7 +4383,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Crime",
-      "Psychological thriller"
+      "Crime",
+      "Psychological thriller",
+      "Psychological",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Hunter_with_a_Scalpel"
   },
@@ -3716,6 +4411,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "School drama",
+      "School",
+      "drama",
+      "Coming-of-age",
       "Coming-of-age"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/I_Am_a_Running_Mate"
@@ -3775,6 +4473,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
+      "Fantasy",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/S_Line_(TV_series)"
@@ -3788,7 +4488,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Crime",
-      "Period drama"
+      "Crime",
+      "Period drama",
+      "Period",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Low_Life_(TV_series)"
   },
@@ -3811,8 +4514,12 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action",
+      "Action",
       "Thriller",
-      "Revenge drama"
+      "Thriller",
+      "Revenge drama",
+      "Revenge",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Defects_(TV_series)"
   },
@@ -3825,6 +4532,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Action",
+      "Action",
+      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Trigger_(South_Korean_TV_series)"
@@ -3838,7 +4547,13 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Sports drama",
+      "Sports",
+      "drama",
       "Coming of Age",
+      "Coming",
+      "of",
+      "Age",
+      "Comedy",
       "Comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_Winning_Try"
@@ -3852,7 +4567,11 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Medical thriller",
-      "Black comedy"
+      "Medical",
+      "thriller",
+      "Black comedy",
+      "Black",
+      "comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Mary_Kills_People_(South_Korean_TV_series)"
   },
@@ -3865,7 +4584,10 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Workplace",
-      "Legal drama"
+      "Workplace",
+      "Legal drama",
+      "Legal",
+      "drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Beyond_the_Bar"
   },
@@ -3878,6 +4600,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
+      "Drama",
+      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/My_Lovely_Journey"
@@ -3913,6 +4637,9 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy action",
+      "Fantasy",
+      "action",
+      "Superhero",
       "Superhero"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Twelve_(TV_series)"
@@ -3937,7 +4664,9 @@
     "coverImageUrl": "N/A",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Crime thriller"
+      "Crime thriller",
+      "Crime",
+      "thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Eun-Soo%27s_Good_Day"
   }
