@@ -8,10 +8,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Cooking show",
-      "Cooking show",
       "Variety show",
-      "Variety show",
-      "Comedy",
       "Comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Crazy_Recipe_Adventure"
@@ -25,8 +22,6 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Procedural",
-      "Procedural",
-      "Psychological thriller",
       "Psychological thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Beyond_Evil_(TV_series)"
@@ -40,10 +35,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
-      "Drama",
       "Comedy",
-      "Comedy",
-      "Family",
       "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Be_My_Dream_Family"
@@ -68,10 +60,8 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Bossam_Steal_the_Fate.jpg/250px-Bossam_Steal_the_Fate.jpg",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Historical Drama",
       "Historical",
       "Drama",
-      "Romance",
       "Romance"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Bossam:_Steal_the_Fate"
@@ -96,7 +86,6 @@
     "coverImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Beasts_of_asia.png/250px-Beasts_of_asia.png",
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
-      "Children\u0027s television series",
       "Children\u0027s television series"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Beasts_of_Asia_(TV_series)"
@@ -110,8 +99,6 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Military drama",
-      "Military drama",
-      "Action",
       "Action"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/D.P._(TV_series)"
@@ -125,12 +112,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Dystopian",
-      "Dystopian",
-      "Survival",
       "Survival",
       "Thriller",
-      "Thriller",
-      "Drama",
       "Drama"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Squid_Game"
@@ -144,10 +127,7 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Drama",
-      "Drama",
       "Melodrama",
-      "Melodrama",
-      "Family",
       "Family"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/The_All-Round_Wife"
@@ -173,8 +153,6 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Psychological",
-      "Psychological",
-      "Mystery",
       "Mystery"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Artificial_City"
@@ -188,12 +166,8 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Mystery",
-      "Mystery",
-      "Drama",
       "Drama",
       "Thriller",
-      "Thriller",
-      "Comedy",
       "Comedy"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Bad_and_Crazy"
@@ -207,8 +181,6 @@
     "createdAt": "0001-01-01T00:00:00",
     "categories": [
       "Fantasy",
-      "Fantasy",
-      "Thriller",
       "Thriller"
     ],
     "sourceUrl": "https://en.wikipedia.org/wiki/Bulgasal:_Immortal_Souls"
