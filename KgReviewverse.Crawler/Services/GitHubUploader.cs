@@ -91,7 +91,6 @@ public class GitHubUploader
         }
         catch (Exception)
         {
-            // File doesn't exist or other error, return null
         }
 
         return null;
